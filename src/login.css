@@ -1,0 +1,168 @@
+.loginBox{
+    border: 2px solid rgb(52, 54, 48);
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+}
+.loginBtn{
+      /* width: 100px; */
+      background-color: blue;
+      color: white;
+      border: none;
+      padding: 5px;
+      font-size: 20px;
+      border-radius: 20px;
+}
+.logoutbtn{
+  width: 100px;
+  background-color: rgb(120, 120, 192);
+  color: rgb(208, 227, 233);
+  border: none;
+  padding: 5px;
+  font-size: 15px;
+  border-radius: 20px;
+
+}
+.inputFields { 
+    border-radius: 10px;
+    width: 350px;
+    font-size: 20px;
+    line-height: 30px;
+}
+.inputSearch{
+    text-align: center;
+    width: 400px;
+    font-size: 20px;
+    height: 35px;
+    border-radius: 20px;
+    border: 1px light;
+    }
+    
+    .searchBtn{
+        /* height: 35px;
+        width: 100px;
+        font: 30px;
+          font-family:'Gill Sans', 
+        border: none;
+        padding: 5px;
+        border-radius: 10px; */
+        width: 100px;
+        background-color:transparent;
+        color: rgb(239, 239, 240);
+        background-color: rgb(145, 88, 88);
+        /* border: 2px solid; */
+        /* height: 20px; */
+        padding: 5px;
+        font-size: 20px;
+        border-radius: 20px;
+    }
+.loginBtn{
+    width: 80px;
+}
+
+.images{
+    height:300px;
+    width: 300px;
+  }
+  .suggestedimages{
+    height:200px;
+    width: 200px;
+
+  }
+  .navList{
+    margin-left: 950px;
+    width: 350px;
+    padding: 0%;
+  }
+
+
+  li.navOptions{
+    display: inline-block;
+    margin-left: 30px;
+
+  }
+
+
+
+
+  li{
+    display: inline-block;
+    margin-left: 50px;
+    text-align: center;
+    padding: 0%;
+    text-decoration: none;
+}
+.SearchBar{
+    text-align: center;
+    margin: auto;
+    /* background-color: lightblue; */
+}
+
+.knowbtn{
+  width: 70px;
+  color:blueviolet;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  /* border: 1px solid; */
+  font-size: 15px;
+  /* background-color: transparent; */
+  border-radius: 10px;
+  border: none;
+}
+
+.nextButton{
+    height: 35px;
+    width:100px;
+    font: 30px;
+    border: 'none';
+    font-family:'Gill Sans', ;
+    border-radius: 10px;
+    color: white;
+    background-color: limegreen;
+}
+
+.moviePlot{
+  width: 1000px;
+  padding: 25px;
+  background-color: lightblue;
+  text-align: center;
+  margin: auto;
+}
+  
+.userAccount{
+  margin-top: 50px;
+  width: 300px;
+  height: 200px;
+  margin:auto;
+  text-align: center;
+  border: 2px solid gray;
+  border-radius: 10px;
+  /* background-color: rgb(116, 121, 116); */
+  /* color: blueviolet; */
+}
+.laterBtn{
+  width: 120px;
+  color:rgb(175, 117, 230);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 1px solid;
+  font-size: 20px;
+  background-color: transparent;
+  border-radius: 5px;
+}
+
+.nowBtn{
+  width: 120px;
+  color:whitesmoke;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: none;
+  font-size: 20px;
+ background-color:gray;
+  border-radius: 3px;
+
+}
+
+.suggestlist{
+  margin:15px;
+}
+   
